@@ -1,3 +1,24 @@
+.layui-body{
+  padding: 15px;
+}
+.layui-elem-quote{
+  font-size: 24px;
+}
+.title-container{
+  padding: 0;
+}
+.site-title{
+  border-width: 1px 0 0;
+  border-color: #eee;
+  margin: 0;
+}
+.site-title legend{
+  padding: 0 10px;
+  font-size: 20px;
+}
+.site-title legend a{
+  color: #666;
+}
 .card-container{
   overflow: hidden;
   background: #f5f5f9;
