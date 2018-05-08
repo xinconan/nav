@@ -1,11 +1,12 @@
 .layui-body{
-  padding: 15px;
+  padding: 0 15px 15px;
 }
 .layui-elem-quote{
   font-size: 24px;
 }
 .title-container{
   padding: 0;
+  margin-top: 15px;
 }
 .site-title{
   border-width: 1px 0 0;
